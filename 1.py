@@ -18,5 +18,6 @@ if str in secretWord:
 else:
     print("Nay")
 print("done finally")
+print("Changes done")
 #This is just to demostrate the fork and merge and pull again.
 
